@@ -2,6 +2,7 @@
 This project aims to provide a comprehensive analysis of the airline industry by applying a wide range of econometric, statistical, and machine learning models. By focusing on forecasting, risk estimation, and dynamic relationships, we uncover key insights into the tourism sector.
 
 🔍 Main Objectives
+
 📈 Forecasting Trends
 Build accurate forecasting models using SARIMA, State Space Models, and deep learning (RNN) to capture seasonality, trends, and structural factors affecting airline stocks.
 
